@@ -8,4 +8,4 @@
 
 <h2>Requisitos para utilização</h2>
 <p>É necessário a utilização de um dataset com imagens e arquivo .json com os metadados das imagens e dos labels marcados.</p>
-<p>Para a marcação de identificação dos elementos, é recomendado o uso do serviço <a href="https://datatorch.io/">DataTorch</a></p>
+<p>Para a marcação dos labels para identificação dos elementos, é recomendado o uso do serviço <a href="https://datatorch.io/">DataTorch</a></p>
