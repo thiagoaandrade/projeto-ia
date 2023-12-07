@@ -7,5 +7,5 @@
 <p>Documentação oficial de <a href="https://detectron2.readthedocs.io/en/latest/tutorials/install.html" target="_blank">instruções da instalação</a></p>
 
 <h2>Requisitos de utilização</h2>
-<p>É necessário a utilização de um dataset com imagens e arquivo .json com os metadados das imagens e dos labels marcados.</p>
-<p>Para a marcação dos labels para identificação dos elementos, é recomendado o uso do serviço <a href="https://datatorch.io/">DataTorch</a></p>
+<p>Para a implementação do código, será necessário a produção de um conjunto de dados (dataset) de imagens relevantes para o contexto desejado, acompanhadas por um arquivo no formato .json contendo metadados e rótulos marcados(labels).</p>
+<p>Para a marcação dos labels de identificação dos elementos, é recomendável o uso da plataforma <a href="https://datatorch.io/">DataTorch</a></p>
